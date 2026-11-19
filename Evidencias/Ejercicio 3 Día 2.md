@@ -1,4 +1,4 @@
-
+<img width="1198" height="1600" alt="image" src="https://github.com/user-attachments/assets/c09b7bd4-8ef2-4133-9e9c-d2d053894532" />
 
 #### SALIDA POR CONSOLA
 
